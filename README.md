@@ -16,16 +16,8 @@ Soy Tiare Rojas, Front-End Developer. Soy una apasionada por el conocimiento y e
 * Gestión del tiempo
 
 ### :computer: Herramientas Tecnológicas 
-* JavaScript
-* HTML5
-* CSS
-* Visual Studio Code
-* Slack
-* Figma
-* Trello
-* Firebase 
-* Jest 
 
+![Diseño sin título](https://user-images.githubusercontent.com/122039037/235308485-e36bafce-0dde-47c8-8087-ce7a271eacab.png)
 
 ### 📫 Contáctame en 
 * [Tiare Rojas Madariaga](https://www.linkedin.com/in/tiare-rojas-madariaga/) - Linkedin
