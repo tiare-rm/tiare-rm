@@ -26,6 +26,7 @@ Soy Tiare Rojas, Front-End Developer. Soy una apasionada por el conocimiento y e
 * Firebase 
 * Jest 
 
+
 ### 📫 Contáctame en 
 * [Tiare Rojas Madariaga](https://www.linkedin.com/in/tiare-rojas-madariaga/) - Linkedin
 
