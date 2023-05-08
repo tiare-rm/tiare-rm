@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/122039037/236897326-69deb959-fb31-45e2-b06d-64867898cef9.png)
 
-### 👋 Hola bienvenide a mi repositorio
+<!-- ### 👋 Hola bienvenide a mi repositorio -->
 
 ### :rocket: Acerca de mí
 
