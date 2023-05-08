@@ -4,7 +4,7 @@
 
 ### :rocket: Acerca de mí
 
-Soy Tiare Rojas, Front-End Developer. Soy una apasionada por el conocimiento y el estudio, lo que me ha permitido incursionar en diversas áreas desde muy temprana edad. Soy además Profesora de Inglés, pero luego de 8 años decidí buscar nuevos horizontes e incursionar en el mundo de la tecnologia en donde encontré a Laboratoria, donde me gradué como Desarrolladora Web. :woman_technologist:
+Soy una apasionada por el conocimiento y el estudio, lo que me ha permitido incursionar en diversas áreas desde muy temprana edad. Soy además Profesora de Inglés, pero luego de 8 años decidí buscar nuevos horizontes e incursionar en el mundo de la tecnologia en donde encontré a Laboratoria, donde me gradué como Desarrolladora Web. :woman_technologist:
 
 ### :hourglass_flowing_sand: Actualmente trabajando en: 
 * [Markdown-Links y CLI](https://github.com/tiare-rm/Markdown-Links)
