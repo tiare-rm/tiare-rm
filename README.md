@@ -7,6 +7,7 @@
 Soy una apasionada por el conocimiento y el estudio, lo que me ha permitido incursionar en diversas áreas desde muy temprana edad. Soy además Profesora de Inglés, pero luego de 8 años decidí buscar nuevos horizontes e incursionar en el mundo de la tecnologia en donde encontré a Laboratoria, donde me gradué como Desarrolladora Web. :woman_technologist:
 
 ### :hourglass_flowing_sand: Actualmente trabajando en: 
+* :briefcase: [Mi portafolio personal](https://github.com/tiare-rm/Portafolio-Tiare-Rojas)
 * :hamburger:[Burger Queen (API CLIENT), Laboratoria Proyecto 5.](https://github.com/tiare-rm/Burger-Queen-API-CLIENT)
 
 ### :open_file_folder: Mis proyectos 
