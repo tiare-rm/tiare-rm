@@ -27,8 +27,8 @@ Soy una apasionada por el conocimiento y el estudio, lo que me ha permitido incu
 ![Diseño sin título](https://user-images.githubusercontent.com/122039037/235308485-e36bafce-0dde-47c8-8087-ce7a271eacab.png)
 
 ### 📫 Contáctame en 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/)&nbsp; [Tiare Rojas Madariaga](https://www.linkedin.com/in/tiare-rojas-madariaga/) - Linkedin
-:computer: [Tiare Rojas Madariaga]() - Revisa mi portafolio Web
+* [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/)&nbsp; [Tiare Rojas Madariaga](https://www.linkedin.com/in/tiare-rojas-madariaga/) - Linkedin
+* :computer: [Revisa mi portafolio Web]() 
 
 <!--
 **tiare-rm/tiare-rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
