@@ -7,14 +7,16 @@
 Soy una apasionada por el conocimiento y el estudio, lo que me ha permitido incursionar en diversas áreas desde muy temprana edad. Soy además Profesora de Inglés, pero luego de 8 años decidí buscar nuevos horizontes e incursionar en el mundo de la tecnologia en donde encontré a Laboratoria, donde me gradué como Desarrolladora Web. :woman_technologist:
 
 ### :hourglass_flowing_sand: Actualmente trabajando en: 
-* :hamburger:[Burger Queen (API CLIENT), Laboratoria Proyecto 5.](https://github.com/tiare-rm/Burger-Queen-API-CLIENT)
+* :notebook: [Maquetación Bootstrap](https://github.com/tiare-rm/Maquetaci-n-Bootstrap/tree/main)
+* 🛒 [Carrito de compra](https://github.com/tiare-rm/Carro-de-compra/tree/main)
+* :hamburger: [Burger Queen (API CLIENT), Laboratoria Proyecto 5.](https://github.com/tiare-rm/Burger-Queen-API-CLIENT)
 
 ### :open_file_folder: Mis proyectos 
 * :briefcase: [Mi portafolio personal](https://github.com/tiare-rm/Portafolio-Tiare-Rojas)
-* :computer:[Markdown-Links y CLI, Laboratoria Proyecto 4.](https://github.com/tiare-rm/Markdown-Links)
-* :coffee:[Red Social Coffee Hour, Laboratoria Proyecto 3.](https://github.com/tiare-rm/Social-Network)
-* :computer:[Data Lovers Harry Potter, Laboratoria Proyecto 2.](https://github.com/tiare-rm/Data-Lovers-Harry-Potter)
-* :credit_card:[Credit Card Validation, Laboratoria Proyecto 1.](https://github.com/tiare-rm/Final-Tarjeta-de-Credito-Valida)
+* :computer: [Markdown-Links y CLI, Laboratoria Proyecto 4.](https://github.com/tiare-rm/Markdown-Links)
+* :coffee: [Red Social Coffee Hour, Laboratoria Proyecto 3.](https://github.com/tiare-rm/Social-Network)
+* :computer: [Data Lovers Harry Potter, Laboratoria Proyecto 2.](https://github.com/tiare-rm/Data-Lovers-Harry-Potter)
+* :credit_card: [Credit Card Validation, Laboratoria Proyecto 1.](https://github.com/tiare-rm/Final-Tarjeta-de-Credito-Valida)
 
 ### :relaxed: Soft Skills 
 * Liderazgo e iniciativa
