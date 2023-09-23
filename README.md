@@ -7,8 +7,9 @@
 Soy una apasionada por el conocimiento y el estudio, lo que me ha permitido incursionar en diversas áreas desde muy temprana edad. Soy además Profesora de Inglés, pero luego de 8 años decidí buscar nuevos horizontes e incursionar en el mundo de la tecnologia en donde encontré a Laboratoria, donde me gradué como Desarrolladora Web. :woman_technologist:
 
 ### :hourglass_flowing_sand: Actualmente trabajando en: 
+<!--* 🛒 [Carrito de compra - usando React]()-->
 * :notebook: [Maquetación Bootstrap](https://github.com/tiare-rm/Maquetaci-n-Bootstrap/tree/main)
-* 🛒 [Carrito de compra](https://github.com/tiare-rm/Carro-de-compra/tree/main)
+* 🛒 [Carrito de compra - usando JS-HTML-CSS](https://github.com/tiare-rm/Carro-de-compra/tree/main)
 * :hamburger: [Burger Queen (API CLIENT), Laboratoria Proyecto 5.](https://github.com/tiare-rm/Burger-Queen-API-CLIENT)
 
 ### :open_file_folder: Mis proyectos 
